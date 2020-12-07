@@ -4,6 +4,6 @@
 * Growth of Function
 * Loop Analysis
 
-### Answer sheet
-[QUESTION & ANSWERS](P1.md)
+### Problems
+[QUESTIONS & ANSWERS](P1.md)
 
