@@ -1,7 +1,7 @@
 ## Kevin X. Chen (Xiaomin Chen)
 
 ### Contact Information
-Email Address: xiaominchen1@gmail.com
+Email Address: xiaominchen1@gmail.com "   "
 Phone Number: 1(917)331-3105
 
 ### Introduction of me
