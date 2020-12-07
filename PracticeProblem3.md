@@ -6,6 +6,5 @@
 * Search Algorithms
 
 ### Answer sheet
-[QUESTION & ANSWERS]
+[QUESTION & ANSWERS](P3.md)
 
-### Java Codes for the Problems
