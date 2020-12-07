@@ -4,8 +4,9 @@
 * Email Address: xiaominchen1@gmail.com         
 * Phone Number: 1(917)331-3105
 
-### Introduction of me
-Hi, I am Xiaomin Chen, a senior undergraduate student who majoring in Applied Mathematic and Computer Science. 
+### Majors
+* B.S. Applied Mathemetic
+* B.S. Computer Science
 
 ### Personal Hobbies
 * Jogging 
