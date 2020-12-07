@@ -5,7 +5,7 @@
 * Big O notation & Loop Analysis
 * Sorting --- Bubble Sort, Insertion Sort, Selection Sort
 
-### Answer sheet
-[QUESTION & ANSWERS](P2.md)
+### Problems
+[QUESTIONS & ANSWERS](P2.md)
 
 
