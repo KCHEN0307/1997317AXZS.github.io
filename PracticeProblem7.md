@@ -4,7 +4,7 @@
 * Graphs
 * Review of anything covered already
 
-### Answer sheet
-[QUESTION & ANSWERS](P7.md)
+### Problems
+[QUESTIONS & ANSWERS](P7.md)
 
 
