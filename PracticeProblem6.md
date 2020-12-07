@@ -5,6 +5,5 @@
 * Binary Trees, BST
 
 ### Answer sheet
-[QUESTION & ANSWERS]
+[QUESTION & ANSWERS](P6.md)
 
-### Java Codes for the Problems
