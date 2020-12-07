@@ -5,6 +5,6 @@
 * Review of anything covered already
 
 ### Answer sheet
-[QUESTION & ANSWERS]
+[QUESTION & ANSWERS](P7.md)
 
-### Java Codes for the Problems
+
