@@ -20,6 +20,16 @@ Hi, I am Xiaomin Chen, a senior undergraduate student who majoring in Applied Ma
 * Data Management
 * Speak and write in both English and Chinese
 
+### Practic Problem of CISC 3130 class
+* [Practice Problem #1]
+* [Practice Problem #2]
+* [Practice Problem #3]
+* [Practice Problem #4]
+* [Practice Problem #5]
+* [Practice Problem #6]
+* [Practice Problem #7]
+* [Practice Problem #8]
+
 ### Labs of on my CISC 3130 class
 * [LAB #1]
 * [LAB #2]
