@@ -4,6 +4,6 @@
 * Heaps
 * Binary Trees, BST
 
-### Answer sheet
-[QUESTION & ANSWERS](P6.md)
+### Problems
+[QUESTIONS & ANSWERS](P6.md)
 
