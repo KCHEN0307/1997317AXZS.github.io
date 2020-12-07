@@ -5,6 +5,6 @@
 * Loop Analysis
 
 ### Answer sheet
-[QUESTION & ANSWERS]
+[QUESTION & ANSWERS](CISC 3130 SectionMY9 --- Practice Problem 1.pdf)
 
 ### Java Codes for the Problems
