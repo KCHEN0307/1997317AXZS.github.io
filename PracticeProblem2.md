@@ -6,6 +6,6 @@
 * Sorting --- Bubble Sort, Insertion Sort, Selection Sort
 
 ### Answer sheet
-[QUESTION & ANSWERS]
+[QUESTION & ANSWERS](P2.md)
 
-### Java Codes for the Problems
+
