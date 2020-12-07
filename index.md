@@ -21,14 +21,14 @@ Hi, I am Xiaomin Chen, a senior undergraduate student who majoring in Applied Ma
 * Speak and write in both English and Chinese
 
 ### Practic Problem of CISC 3130 class
-* [Practice Problem #1](PracticeProblem2.md)
-* [Practice Problem #2]
-* [Practice Problem #3]
-* [Practice Problem #4]
-* [Practice Problem #5]
-* [Practice Problem #6]
-* [Practice Problem #7]
-* [Practice Problem #8]
+* [Practice Problem #1](PracticeProblem1.md)
+* [Practice Problem #2](PracticeProblem2.md)
+* [Practice Problem #3](PracticeProblem3.md)
+* [Practice Problem #4](PracticeProblem4.md)
+* [Practice Problem #5](PracticeProblem5.md)
+* [Practice Problem #6](PracticeProblem6.md)
+* [Practice Problem #7](PracticeProblem7.md)
+* [Practice Problem #8](PracticeProblem8.md)
 
 ### Labs of on my CISC 3130 class
 * [LAB #1]
