@@ -21,7 +21,7 @@ Hi, I am Xiaomin Chen, a senior undergraduate student who majoring in Applied Ma
 * Speak and write in both English and Chinese
 
 ### Practic Problem of CISC 3130 class
-* [Practice Problem #1](1997317AXZS.github.io/PracticeProblem2.md)
+* [Practice Problem #1](PracticeProblem2.md)
 * [Practice Problem #2]
 * [Practice Problem #3]
 * [Practice Problem #4]
