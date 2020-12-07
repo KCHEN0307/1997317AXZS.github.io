@@ -5,6 +5,6 @@
 * Sorting Algorithms
 * Search Algorithms
 
-### Answer sheet
-[QUESTION & ANSWERS](P3.md)
+### Problems
+[QUESTIONS & ANSWERS](P3.md)
 
