@@ -1,1 +1,8 @@
-
+* [Practice Problem #1](PracticeProblem1.md)
+* [Practice Problem #2](PracticeProblem2.md)
+* [Practice Problem #3](PracticeProblem3.md)
+* [Practice Problem #4](PracticeProblem4.md)
+* [Practice Problem #5](PracticeProblem5.md)
+* [Practice Problem #6](PracticeProblem6.md)
+* [Practice Problem #7](PracticeProblem7.md)
+* [Practice Problem #8](PracticeProblem8.md)
